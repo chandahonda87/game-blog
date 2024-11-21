@@ -1,0 +1,9 @@
+.carousel-container {
+    width: 50%; /* Set the width to half of the parent container */
+    margin: 0 auto; /* Center the carousel */
+    margin-top: 10px;
+}
+
+.custom-carousel {
+    width: 100%; /* Make the Swiper take full width of its container */
+}
